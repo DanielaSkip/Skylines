@@ -1,0 +1,19 @@
+Person's name: Anna
+Person's age: 25
+Experience year: 3
+Know languages: Russian, English
+
+Person's name: Ivan
+Person's age: 45
+Pilot number: 2
+Pilot's license number: 339246
+
+Person's name: Oleg
+Person's age: 62
+Ticket number: 45634
+Luggage weight: 11.0 kg
+Luggage cost: 45.0 EUR
+
+Person's name: Masha
+Person's age: 35
+
